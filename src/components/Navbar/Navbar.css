@@ -1,0 +1,40 @@
+/* Navbar */
+.navbar {
+    transition: background-color 0.3s ease-in-out;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: transparent; /* Transparent background */
+    z-index: 1000; /* Ensure navbar is above other content */
+  }
+  
+  .nav-scrolled {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow when scrolled */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #333; /* Color of the toggler icon */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333; /* Link color */
+    margin-left: 20px; /* Space between links */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Link color on hover */
+  }
+  
+  body {
+    padding-top: 70px; /* Adjust based on your navbar height */
+  }
+  
