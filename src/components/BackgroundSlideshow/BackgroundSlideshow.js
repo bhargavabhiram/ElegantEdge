@@ -11,10 +11,22 @@ const images = [
   `${process.env.PUBLIC_URL}/assets/images/Scene7.jpg`
 ];
 
+// Preload images
+const preloadImages = (srcArray) => {
+  const imgArray = [];
+  srcArray.forEach((src) => {
+    const img = new Image();
+    img.src = src;
+    imgArray.push(img);
+  });
+};
+
 const BackgroundSlideshow = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   useEffect(() => {
+    preloadImages(images); // Preload all images
+
     const interval = setInterval(() => {
       setCurrentImageIndex(prevIndex => (prevIndex + 1) % images.length);
     }, 3000); // Change image every 3 seconds
