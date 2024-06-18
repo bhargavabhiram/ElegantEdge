@@ -7,7 +7,7 @@ const images = [
   `${process.env.PUBLIC_URL}/assets/images/Scene3.jpg`,
   `${process.env.PUBLIC_URL}/assets/images/Scene4.jpg`,
   `${process.env.PUBLIC_URL}/assets/images/Scene5.jpg`,
-  `${process.env.PUBLIC_URL}/assets/images/Scene6.png`,
+  `${process.env.PUBLIC_URL}/assets/images/Scene6.jpg`,
   `${process.env.PUBLIC_URL}/assets/images/Scene7.jpg`
 ];
 
