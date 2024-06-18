@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ElegantEdge/static/css/main.263c71b0.css",
-    "main.js": "/ElegantEdge/static/js/main.fc2901b4.js",
+    "main.js": "/ElegantEdge/static/js/main.0b6dc446.js",
     "static/js/453.65572fb1.chunk.js": "/ElegantEdge/static/js/453.65572fb1.chunk.js",
     "index.html": "/ElegantEdge/index.html",
     "main.263c71b0.css.map": "/ElegantEdge/static/css/main.263c71b0.css.map",
-    "main.fc2901b4.js.map": "/ElegantEdge/static/js/main.fc2901b4.js.map",
+    "main.0b6dc446.js.map": "/ElegantEdge/static/js/main.0b6dc446.js.map",
     "453.65572fb1.chunk.js.map": "/ElegantEdge/static/js/453.65572fb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.263c71b0.css",
-    "static/js/main.fc2901b4.js"
+    "static/js/main.0b6dc446.js"
   ]
 }
