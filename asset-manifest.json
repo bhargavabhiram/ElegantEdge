@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ElegantEdge/static/css/main.47ca3396.css",
-    "main.js": "/ElegantEdge/static/js/main.9e7fc1ca.js",
+    "main.css": "/ElegantEdge/static/css/main.b45bf060.css",
+    "main.js": "/ElegantEdge/static/js/main.59681efb.js",
     "static/js/453.65572fb1.chunk.js": "/ElegantEdge/static/js/453.65572fb1.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ElegantEdge/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ElegantEdge/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/ElegantEdge/index.html",
-    "main.47ca3396.css.map": "/ElegantEdge/static/css/main.47ca3396.css.map",
-    "main.9e7fc1ca.js.map": "/ElegantEdge/static/js/main.9e7fc1ca.js.map",
+    "main.b45bf060.css.map": "/ElegantEdge/static/css/main.b45bf060.css.map",
+    "main.59681efb.js.map": "/ElegantEdge/static/js/main.59681efb.js.map",
     "453.65572fb1.chunk.js.map": "/ElegantEdge/static/js/453.65572fb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ca3396.css",
-    "static/js/main.9e7fc1ca.js"
+    "static/css/main.b45bf060.css",
+    "static/js/main.59681efb.js"
   ]
 }
