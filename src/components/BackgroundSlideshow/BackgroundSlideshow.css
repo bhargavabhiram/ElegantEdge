@@ -1,3 +1,5 @@
+/* BackgroundSlideshow.css */
+
 .background-slideshow {
   width: 100%;
   height: 100vh; /* Full viewport height */
@@ -5,5 +7,5 @@
   background-position: center; /* Centers the background image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   filter: brightness(70%); /* Decrease brightness to 70% */
-  transition: background-image 1s ease-in-out; /* Smooth transition for background image change */
+  transition: background-image 1s ease-in-out, transform 1s ease-in-out; /* Smooth transitions */
 }
